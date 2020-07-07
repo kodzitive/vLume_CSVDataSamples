@@ -1,2 +1,2 @@
-# vLume_CSVDataSamples
-A collection of CSV sample datasets used in the vLume software.
+# Sample CSV Datasets
+A collection of CSV datasets used in the vLume software.
